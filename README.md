@@ -1,8 +1,10 @@
 # CarritoFPV-v1
 ## ESP-8266
-https://articulo.mercadolibre.com.mx/MLM-702378293-modulos-shield-expansion-io-motores-puente-h-l293d-nodemcu-_JM
-https://articulo.mercadolibre.com.mx/MLM-588747283-modulo-nodemcu-lua-wifi-esp8266-v2-cdmex-_JM?quantity=1
-https://articulo.mercadolibre.com.mx/MLM-590470210-shield-expansion-io-motores-puente-h-l293d-nodemcu-esp8266-_JM#reco_item_pos=0&reco_backend=machinalis-v2p-pdp&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=208a611d-0be1-42b4-ba1c-f076b9be6263
+Shield + ESP: https://articulo.mercadolibre.com.mx/MLM-702378293-modulos-shield-expansion-io-motores-puente-h-l293d-nodemcu-_JM
+
+ESP: https://articulo.mercadolibre.com.mx/MLM-588747283-modulo-nodemcu-lua-wifi-esp8266-v2-cdmex-_JM?quantity=1
+
+Shield: https://articulo.mercadolibre.com.mx/MLM-590470210-shield-expansion-io-motores-puente-h-l293d-nodemcu-esp8266-_JM#reco_item_pos=0&reco_backend=machinalis-v2p-pdp&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=208a611d-0be1-42b4-ba1c-f076b9be6263
 
 Usado para controlar los motores gracias al shield de NodeMCU.IMPORTANTE: el shield es compatible con la tarjeta V2.
 
