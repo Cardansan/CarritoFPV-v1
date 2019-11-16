@@ -1,6 +1,6 @@
 # CarritoFPV-v1
 ## ESP-8266
-Usado para controlar los motores gracias al shield de NodeMCU. Éste es el Punto de Acceso WiFI, el ESP32 se conecta también aquí. IMPORTANTE: el shield es compatible con la tarjeta V2.
+Usado para controlar los motores gracias al shield de NodeMCU. Éste es el Punto de Acceso WiFI, el ESP32 se conecta también aquí. IMPORTANTE: el shield es compatible con la tarjeta V2 (ESP-12E o NodeMCU 1.0).
 
 Shield + ESP: https://articulo.mercadolibre.com.mx/MLM-702378293-modulos-shield-expansion-io-motores-puente-h-l293d-nodemcu-_JM
 
